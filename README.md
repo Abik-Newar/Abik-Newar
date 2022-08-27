@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Abik-Newar
+
+- 👋 Hi Developers, I’m @Abik-Newar
 - 👀 I’m interested in CODING AND DOING STUFFS
-- 🌱 I’m currently learning JAVASCRIPT
+- 🌱 I’m currently learning JAVASCRIPT | REACT-JS
 - 📫 YOU can reach me through { abiknewar@gmail.com }
 
 <!---
