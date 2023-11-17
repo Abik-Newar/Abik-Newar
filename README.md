@@ -1,6 +1,5 @@
 # 💻ABIK NEWAR 
-# 💫 About Me:
-I'm Currently Working on building projects<br><br>Ask Me About HTML | CSS | JAVASCRIPT | REACT | GIT | GITHUB<br>You Can reach me at **abiknewar@gmail.com**<br>
+I'm Currently Working on building projects<br>Ask Me About HTML | CSS | JAVASCRIPT | REACT | GIT | GITHUB<br>You Can reach me at **abiknewar@gmail.com**<br>
 Fun Fact - Learning to code can help you enhance your analytical reasoning, problem-solving skills, critical understanding, and leadership abilities.
 
 
@@ -19,6 +18,5 @@ Fun Fact - Learning to code can help you enhance your analytical reasoning, prob
 ---
 [![](https://visitcount.itsvg.in/api?id=Abik-Newar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
