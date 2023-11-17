@@ -14,7 +14,7 @@ Fun Fact - Learning to code can help you enhance your analytical reasoning, prob
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abik-Newar&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abik-Newar&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-###abik-newar👤
+### abik-newar👤
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abik-Newar&icon=0&color=0)](https://visitcount.itsvg.in)
